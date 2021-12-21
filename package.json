@@ -1,0 +1,23 @@
+{
+  "name": "aoc21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nermin99/aoc21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nermin99/aoc21/issues"
+  },
+  "homepage": "https://github.com/nermin99/aoc21#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
